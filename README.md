@@ -1,10 +1,7 @@
 ## 🧠 Algorithm Handbook
 This repository is a pattern-based algorithm handbook for coding interviews.
 
-### Sturcture
-📁 algorithms-handbook/
- ├── README.md
- ├── two-pointers/
- |    ├── pattern.md
- |    ├── 0001-TwoSum.java
- └── example/
+## Structure
+- 📂 two-pointers/
+  - 📄 [pattern.md](two-pointers/pattern.md)
+  - 📄 [LC0001-TwoSum.java](two-pointers/LC0001-TwoSum.java)
