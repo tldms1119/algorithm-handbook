@@ -1,4 +1,4 @@
-## 🧭 Two Pointers Pattern
+## Two Pointers Pattern
 
 ### 📌 When to Use
 - Sorted array (정렬된 배열)
