@@ -21,4 +21,8 @@ This repository is a pattern-based algorithm handbook for coding interviews.
     - 📄 [LC0200-NumberOfIslands.java](graph/traversal/LC0200-NumberOfIslands.java)
 - 📂 dynamic-programming/
   - 📄 [pattern.md](dynamic-programming/pattern.md)
-  - 📄 [LC0072-EditDistance.java](dynamic-programming/LC0072-EditDistance.java)
+  - 📂 string-DP/
+    - 📄 [LC0072-EditDistance.java](dynamic-programming/string-DP/LC0072-EditDistance.java)
+ - 📂 knapsack/
+    - 📄 [pattern.md](dynamic-programming/knapsack/pattern.md)
+    - 📄 [LC0416-PartitionEqualSubsetSum.java](dynamic-programming/knapsack/LC0416-PartitionEqualSubsetSum.java)
