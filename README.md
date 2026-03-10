@@ -30,3 +30,6 @@ This repository is a pattern-based algorithm handbook for coding interviews.
     - 📄 [pattern.md](dynamic-programming/kadane/pattern.md)
     - 📄 [LC0053-MaximumSubArray.java](dynamic-programming/kadane/LC0053-MaximumSubArray.java)
     - 📄 [LC0121-BestTimeToBuyAndSellStock.java](dynamic-programming/kadane/LC0121-BestTimeToBuyAndSellStock.java)
+- 📂 hash-map/
+  - 📄 [pattern.md](hash-map/pattern.md)
+  - 📄 [LC0242-ValidAnagram.java](hash-map/LC0242-ValidAnagram.java)
