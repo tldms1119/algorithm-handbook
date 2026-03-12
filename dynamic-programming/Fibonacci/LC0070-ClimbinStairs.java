@@ -27,9 +27,7 @@ public class LC0070ClimbingStairs {
         int prev1 = 2; // ways to reach step 2
 
         for (int i = 3; i <= n; i++) {
-
             int current = prev1 + prev2;
-
             prev2 = prev1;
             prev1 = current;
         }
